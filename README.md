@@ -35,5 +35,5 @@ Donation platform integrating backend APIs and structured datasets.
 
 ## Connect With Me
 - Portfolio: https://alyaa2004.github.io/portfolio/
-- LinkedIn: ضع رابط لينكدإن
+- LinkedIn: https://www.linkedin.com/in/alyaa-al-ali-51b4192b2/
 - Email: allylya470@gmail.com
